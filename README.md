@@ -8,8 +8,8 @@ Maga implemented chat and match UI and behavior (Firebase) and the picture optio
 Raymond implemented login (Facebook), create account, and settings
 
 # Resources
-[https://github.com/Diolor/Swipecards](Swipecards by Dionysis Lorentzos)
+[Swipecards by Dionysis Lorentzos](https://github.com/Diolor/Swipecards)
 
-[https://github.com/ArthurHub/Android-Image-Cropper](Android Image Cropper by Arthur)
+[Android Image Cropper by Arthur](https://github.com/ArthurHub/Android-Image-Cropper)
 
-[https://github.com/bumptech/glide](Bumptech Glide)
+[Bumptech Glide](https://github.com/bumptech/glide)
